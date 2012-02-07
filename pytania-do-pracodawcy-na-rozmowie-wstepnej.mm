@@ -1,11 +1,11 @@
 <map version="0.9.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Pytania do pracodawcy&#xa;na rozmowie wst&#x119;pnej" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1321716665094"><hook NAME="MapStyle" max_node_width="600" min_node_width="1">
+<node TEXT="Pytania do pracodawcy&#xa;na rozmowie wst&#x119;pnej" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1321716665094"><hook NAME="MapStyle">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right">
-<stylenode LOCALIZED_TEXT="default" COLOR="#000000" STYLE="as_parent">
+<stylenode LOCALIZED_TEXT="default" COLOR="#000000" STYLE="as_parent" MAX_WIDTH="600" MIN_WIDTH="1">
 <font NAME="SansSerif" SIZE="12" BOLD="false" ITALIC="false"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details"/>
@@ -379,6 +379,9 @@
 <node TEXT="Jako&#x15b;&#x107;" ID="ID_1778633724" CREATED="1321718096054" MODIFIED="1321718098995"/>
 <node TEXT="Unikalno&#x15b;&#x107; kompetencji" ID="ID_1243695700" CREATED="1321718102520" MODIFIED="1321718107428"/>
 </node>
+</node>
+<node TEXT="Zrekrutuj Pracodawc&#x119; by Marcin Zaj&#x105;czkowski &amp; Warszawa-JUG&#xa;Creative Commons Uznanie autorstwa-U&#x17c;ycie niekomercyjne-Na&#xa;tych samych warunkach 3.0 Unported License.&#xa;https://github.com/szpak/zrekrutuj-pracodawce" LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="right" ID="ID_1874856660" CREATED="1328619737952" MODIFIED="1328620501722" HGAP="-140" VSHIFT="590">
+<hook NAME="FreeNode"/>
 </node>
 </node>
 </map>
